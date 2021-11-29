@@ -1,0 +1,11 @@
+sort1 uses: Bubble sort
+
+How do you know?: Because bubble sort is the worst for reversed array
+
+sort2 uses: Merge sort
+
+How do you know?: Merge sort is using more memory but it's also fastest than Selection sort and Merge sort is fastest for already sorted list
+
+sort3 uses: Selection sort
+
+How do you know?: The selection sort is slow because what ever happen we need to parse the list of element to know if it sorted or not
